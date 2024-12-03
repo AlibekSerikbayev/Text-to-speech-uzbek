@@ -1,0 +1,1 @@
+echo -e "streamlit\ntorch\ntransformers\nTTS\nlibrosa\n" > requirements.txt
